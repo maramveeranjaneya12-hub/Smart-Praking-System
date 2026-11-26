@@ -1,0 +1,37 @@
+slotId,vehicleType,zone,occupied,vehicleNumber,ticketId,occupiedSince
+C-01,Car,Zone A - Ground,1,MH-12-TR-7845,TKT-1013,1795655502
+C-02,Car,Zone A - Ground,1,KA-03-MZ-4190,TKT-1014,1795659522
+C-03,Car,Zone A - Ground,1,DL-08-CA-2056,TKT-1015,1795662342
+C-04,Car,Zone A - Ground,1,TN-01-AQ-6312,TKT-1016,1795652322
+C-05,Car,Zone A - Ground,1,AP-28-KL-9421,TKT-1017,1795660902
+C-06,Car,Zone A - Ground,1,GJ-05-RN-1180,TKT-1018,1795657722
+C-07,Car,Zone A - Ground,0,,,0
+C-08,Car,Zone A - Ground,0,,,0
+C-09,Car,Zone A - Ground,0,,,0
+C-10,Car,Zone A - Ground,0,,,0
+C-11,Car,Zone B - Level 1,0,,,0
+C-12,Car,Zone B - Level 1,0,,,0
+C-13,Car,Zone B - Level 1,0,,,0
+C-14,Car,Zone B - Level 1,0,,,0
+C-15,Car,Zone B - Level 1,0,,,0
+C-16,Car,Zone B - Level 1,0,,,0
+C-17,Car,Zone B - Level 1,0,,,0
+C-18,Car,Zone B - Level 1,0,,,0
+C-19,Car,Zone B - Level 1,0,,,0
+C-20,Car,Zone B - Level 1,0,,,0
+B-01,Bike,Zone C - Two-Wheeler North,1,MH-04-BX-5519,TKT-1019,1795656222
+B-02,Bike,Zone C - Two-Wheeler North,1,KA-51-EF-8042,TKT-1020,1795662102
+B-03,Bike,Zone C - Two-Wheeler North,1,TS-09-GH-3765,TKT-1021,1795658742
+B-04,Bike,Zone C - Two-Wheeler North,1,RJ-14-SK-6204,TKT-1022,1795653222
+B-05,Bike,Zone C - Two-Wheeler North,0,,,0
+B-06,Bike,Zone C - Two-Wheeler North,0,,,0
+B-07,Bike,Zone C - Two-Wheeler North,0,,,0
+B-08,Bike,Zone C - Two-Wheeler North,0,,,0
+B-09,Bike,Zone D - Two-Wheeler South,0,,,0
+B-10,Bike,Zone D - Two-Wheeler South,0,,,0
+B-11,Bike,Zone D - Two-Wheeler South,0,,,0
+B-12,Bike,Zone D - Two-Wheeler South,0,,,0
+B-13,Bike,Zone D - Two-Wheeler South,0,,,0
+B-14,Bike,Zone D - Two-Wheeler South,0,,,0
+B-15,Bike,Zone D - Two-Wheeler South,0,,,0
+B-16,Bike,Zone D - Two-Wheeler South,0,,,0
